@@ -1,0 +1,56 @@
+[
+    {
+        "book_id" : 101,
+        "title" : "Eloquent JavaScript, Second Edition",
+        "author" : "Marijn Haverbeke",
+        "genre" : "JavaScript",
+        "location" : "Wing 1, Shelf 2",
+        "quantity" : 10,
+        "img" : "https://eloquentjavascript.net/2nd_edition/img/cover.png"
+    },
+    {
+        "book_id" : 102,
+        "title" : "Git Pocket Guide",
+        "author" : "Richard E. Silverman",
+        "genre" : "Git",
+        "location" : "Wing 1, Shelf 1",
+        "quantity" : 9,
+        "img" : "https://images-na.ssl-images-amazon.com/images/I/71ny27Obf-L.jpg"
+    },
+    {
+        "book_id" : 103,
+        "title" : "Unlocking Android",
+        "author" : "W. Frank Ableson",
+        "genre" : "Mobile",
+        "location" : "Wing 2, Shelf 3",
+        "quantity" : 15,
+        "img" : "https://images.manning.com/360/480/resize/book/8/fbf3c75-31a7-42f2-9d86-7ed11c483598/ableson.png"
+    },
+    {
+        "book_id" : 104,
+        "title" : "Flex 3 in Action",
+        "author" : "Faisal Abid",
+        "genre" : "Internet",
+        "location" : "Wing 1, Shelf 5",
+        "quantity" : 10,
+        "img" : "https://images-na.ssl-images-amazon.com/images/I/71kTahvKQnL.jpg"
+    },
+    {
+        "book_id" : 105,
+        "title" : "Flex on Java",
+        "author" : "Jeremy Anderson",
+        "genre" : "Internet",
+        "location" : "Wing 2, Shelf 3",
+        "quantity" : 12,
+        "img" : "https://images.manning.com/360/480/resize/book/2/95f1246-f791-4764-9913-cfa4f48b34a8/allmon.png"
+    },
+    {
+        "book_id" : 106,
+        "title" : "OSGi in Depth",
+        "author" : "Alexandre de Castro Alves",
+        "genre" : "Java",
+        "location" : "Wing 1, Shelf 3",
+        "quantity" : 10,
+        "img" : "https://images-na.ssl-images-amazon.com/images/I/41O9LpYrDNL.jpg"
+    }
+]

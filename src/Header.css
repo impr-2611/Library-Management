@@ -1,0 +1,12 @@
+.Title{
+    background-color: brown;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: cornsilk;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    margin-bottom: 1em;
+}
